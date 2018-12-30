@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/menu_list_anime"
+                android:icon="@drawable/ic_anime"
+                android:title="@string/nav_title_first" />
+            <item
+                android:id="@+id/menu_list_manga"
+                android:icon="@drawable/ic_manga"
+                android:title="@string/nav_title_second" />
+            <item
+                android:id="@+id/menu_list_series"
+                android:icon="@drawable/ic_tvseries"
+                android:title="@string/nav_title_third" />
+            <item
+                android:id="@+id/menu_list_movies"
+                android:icon="@drawable/ic_movie"
+                android:title="@string/nav_title_quarter" />
+            <item
+                android:id="@+id/menu_list_books"
+                android:icon="@drawable/ic_books"
+                android:title="@string/nav_title_five" />
+        </group>
+
+</menu>

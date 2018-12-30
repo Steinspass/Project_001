@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project_001</string>
+    <string name="tab_title_first">anime</string>
+    <string name="tab_title_second">manga</string>
+    <string name="tab_title_third">series</string>
+    <string name="tab_title_quarter">movies</string>
+    <string name="tab_title_five">books</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
